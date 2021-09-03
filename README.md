@@ -1,6 +1,6 @@
-### Hi there, I'm Ulises.
+### Hi there, I'm Ulises, a developer based in Buenos Aires, Argentina.
 
-:speech_balloon: ENG / ESP
+:speech_balloon: EN / ES
 
 #### :gear: I'm currently:
 * Studiyng **Information Systems Engineering** at UTN BA.
