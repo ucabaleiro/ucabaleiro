@@ -16,5 +16,5 @@
 * Math in general (especially discrete math).
 * Cybersecurity.
 
-[![ucabaleiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucabaleiro)](https://github.com/ucabaleiro/github-readme-stats)
+[![ucabaleiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucabaleiro&show_icons=true&theme=onedark)](https://github.com/ucabaleiro/github-readme-stats)
 
