@@ -18,6 +18,4 @@
 
 <br>
 
-![ucabaleiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ucabaleiro&show_icons=true&theme=dark&hide_rank=true&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucabaleiro&layout=compact&theme=dark)](https://github.com/ucabaleiro/github-readme-stats)
-
+| <a href="https://github.com/ucabaleiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ucabaleiro&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="ucabaleiro's github stats" /></a> | <a href="https://github.com/ucabaleiro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucabaleiro&layout=compact&theme=dark&hide_border=true" /></a> |
