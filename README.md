@@ -5,8 +5,8 @@
 #### :gear: I'm currently:
 * Studiyng **Information Systems Engineering** at UTN BA.
 * Learning C.
-* Learning SQL.
 * Taking [HTB Academy](https://academy.hackthebox.eu/) courses on **pentesting**.
+* Working on [this](https://github.com/ucabaleiro/CLI-parse-from-url).
 
 #### :toolbox: Languages:
 * Python.
