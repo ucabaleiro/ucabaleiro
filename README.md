@@ -10,7 +10,7 @@
 
 #### :toolbox: Languages:
 * Python.
-* Begginer C/C++.
+* C.
 
 #### :eyes: I'm interested in:
 * Math in general (especially discrete math).
