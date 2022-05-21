@@ -4,7 +4,6 @@
 
 #### :gear: I'm currently:
 * Studiyng **Information Systems Engineering** at UTN BA.
-* Taking [HTB Academy](https://academy.hackthebox.eu/) courses on **pentesting**.
 * Learning **Rust**.
 
 #### :toolbox: Languages:
@@ -12,7 +11,7 @@
 * C.
 
 #### :eyes: I'm interested in:
-* Math in general (especially discrete math).
+* Math in general.
 * Cybersecurity.
 
 <br>
