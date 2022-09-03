@@ -1,18 +1,19 @@
-### Hi there, I'm Ulises, a developer based in Buenos Aires, Argentina.
+### hi there, I'm Ulises, a developer based in Buenos Aires, Argentina.
 
 :speech_balloon: EN / ES
 
-#### :gear: I'm currently:
-* Studiyng **Information Systems Engineering** at UTN BA.
-* Learning **Rust**.
+#### :gear: currently:
+* studiyng **Information Systems Engineering** at UTN BA.
+* learning **Rust**.
 
-#### :toolbox: Languages:
+#### :toolbox: languages:
 * Python.
 * C.
+* SQL + T-SQL.
 
-#### :eyes: I'm interested in:
-* Math in general.
-* Cybersecurity.
+#### :eyes: interested in:
+* math.
+* cybersecurity.
 
 <br>
 
