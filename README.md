@@ -4,11 +4,10 @@
 
 #### :gear: currently:
 * studiyng **Information Systems Engineering** at UTN BA.
-* learning **Rust**.
+* working at [**Despegar**](despegar.com.ar).
 
 #### :toolbox: languages:
-* Python.
-* C.
+* Scala.
 * SQL + T-SQL.
 
 #### :eyes: interested in:
