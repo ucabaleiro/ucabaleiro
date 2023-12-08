@@ -2,7 +2,7 @@
 
 :speech_balloon: EN / ES
 
-#### :gear: currently:
+#### ⚙️ currently:
 * studiyng **Information Systems Engineering** at UTN BA.
 * working at [**Despegar**](https://www.despegar.com.ar).
 
