@@ -4,7 +4,7 @@
 
 #### :gear: currently:
 * studiyng **Information Systems Engineering** at UTN BA.
-* working at [**Despegar**](despegar.com.ar).
+* working at [**Despegar**](https://www.despegar.com.ar).
 
 <br>
 
